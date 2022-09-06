@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1662044022 source:c:\users\ufca\desktop\liberada\israel rodrigues\atividade 001 - sala\atividade001 - if e else\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
